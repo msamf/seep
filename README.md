@@ -1,2 +1,2 @@
 # seep
-C++ practice
+A simple repository for C++ practice
