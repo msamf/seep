@@ -1,0 +1,1 @@
+Project from Codecademy, practicing encapsulation in C++.
