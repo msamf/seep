@@ -1,0 +1,1 @@
+Fusion Kitchen is a project from Codecademy, practicing inheritance in C++.
